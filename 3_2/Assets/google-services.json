@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033652403170",
+    "project_id": "videojuego-2d-dec96",
+    "storage_bucket": "videojuego-2d-dec96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033652403170:android:44c53582e36cc6f83f57bb",
+        "android_client_info": {
+          "package_name": "com.zabdielsoto.firebaseandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy45vUIwLjIZ3Hvgua-V48AO7I714cDys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033652403170:android:d08859219d1b8cb63f57bb",
+        "android_client_info": {
+          "package_name": "com.zabdielsoto.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy45vUIwLjIZ3Hvgua-V48AO7I714cDys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
